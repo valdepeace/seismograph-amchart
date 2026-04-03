@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Negrero/seismograph-amchart#readme",
   "dependencies": {
     "@amcharts/amcharts4": "^4.4.10",
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "mathjs": "^6.0.2",
     "mathjs-simple-integral": "^0.1.1",
     "polynomial": "^1.4.3",
